@@ -1,6 +1,6 @@
 ## Welcome to my GoPro page
 
-automating photography/video with python and gopro session/Hero3+
+Automating photography/video with python and gopro session/Hero3+
 
 ### Markdown
 
